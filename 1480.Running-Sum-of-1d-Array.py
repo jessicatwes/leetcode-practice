@@ -12,3 +12,6 @@ class Solution:
             sum += i
             runningsum.append(sum)
         return runningsum
+
+# Test case num_array = [2, 7, 11, 15], target = 9
+# runningSum(num_array) #[0,1]
