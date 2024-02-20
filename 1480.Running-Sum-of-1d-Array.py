@@ -3,7 +3,7 @@
 
 class Solution:
      def runningSum(self, nums: List[int]) -> List[int]:
-        ''' Given an array nums, returnng an array that is running sum of num
+        ''' Given an array nums, return an array that is running sum of num
         nums: array of int  
         runningsum: array of int '''
         sum = 0
