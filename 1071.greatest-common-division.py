@@ -5,7 +5,9 @@ import math
 
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
-        ''' str1, str2: string inputs
+        ''' 
+	str1, str2: string inputs
+        str1[:gcd_len]: return str of the common divisor  
 	'''
 	if str1 + str2 != str2 + str1:
             return ""
