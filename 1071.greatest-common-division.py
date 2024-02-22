@@ -1,6 +1,8 @@
 # https://leetcode.com/problems/greatest-common-divisor-of-strings/
 # For strings S and T, we say "T divides S" if and only if S = T + ... + T  (T concatenated with itself 1 or more times) Return the largest string X such that X divides str1 and X divides str2.
 
+# Solution - Determine if the two str are made of common divisor. Find the divisor by math.gcd. Return the divisor by using the length of gcd output to split string.
+
 import math
 
 class Solution:
