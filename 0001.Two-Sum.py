@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/two-sum/
 # Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice. You can return the answer in any order.
-# Solution - Given an array, we add the element to a dictionary and ask as we move through the array if the complement number to sum to target is in the array by referencing the dictionary. 
+# Solution - Given an array, I use a dictionary to store the array value  and corresponding i. I then iteratea across the array and ask if value of target - numis present in the dictionary. If complement_target_num value is found, return the index of complement_target_num and i.
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
