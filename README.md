@@ -5,7 +5,7 @@ This repository is for myself as I try out different leetcode problems and see h
 
 ## [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 ### Array / String
-[1768. Merge Strings Alternately](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/1768.merge-strings-alternately.py)<br>
+[1768. Merge Strings Alternately](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/1768.Merge-Strings-Alternately.py)<br>
 [1071. Greatest Common Divisor of Strings](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/1071.Greatest-Common-Divisor.py)<br>
 [1431. Kids With the Greatest Number of Candies](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/1431.Kids-With-The-Greatest-Number-Of-Candies.py)<br>
 [605. Can Place Flowers](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/605.Can-Place-Flower.py)<br>
