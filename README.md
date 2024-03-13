@@ -17,6 +17,6 @@ This repository is for myself as I try out different leetcode problems and see h
 
 ### Two Pointers
 [283. Move Zeroes](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/283.Move-Zereos.py)<br>
-[392. Is Subsequence]
+[392. Is Subsequence](https://github.com/jessicatwes/leetcode-practice/blob/main/LeetCode75/0392.Is-Subsequence.py)
 
 ### Sliding Window
